@@ -53,6 +53,7 @@ INSTALLED_APPS = [
     # 'debug_toolbar',
 
     'votes',
+    'resultados',
 ]
 
 MIDDLEWARE = [
